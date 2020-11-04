@@ -1,0 +1,34 @@
+    @media (min-width: 800px) and (max-width: 850px) {
+            .navbar:not(.top-nav-collapse) {
+                background: #1C2331!important;
+            }
+        }
+.view,body,html{height:100%}.navbar{background-color:rgba(0,0,0,.2)}.page-footer,.top-nav-collapse{background-color:#1C2331}@media only screen and (max-width:768px){.navbar{background-color:#1C2331}}
+
+.section-1{
+    background-image: url("../image/THUKU.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 480px;
+} 
+
+h2{
+    text-align: center;
+    color: white;
+    padding-top: 130px;
+    font-family: 'Old Standard TT', serif;
+    font-size: xx-large;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Old Standard TT', serif;
+    color: white;
+    font-size: xx-large;
+}
+
+.bt {
+    text-align: center;
+    padding-top: 140px;
+}
+
